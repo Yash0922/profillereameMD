@@ -16,6 +16,8 @@ class Skills extends SoftwareDeveloper {
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
 }
+
+### Hello! I'm Yash, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.
 <!-- https://github.com/yash0922?tab=followers -->
 <!-- <img src="https://komarev.com/ghpvc/?username=yash0922/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
 <br/>
