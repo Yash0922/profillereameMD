@@ -4,19 +4,6 @@
 <h2 align="center">System.out.println("Hello World !!");</h2>
 <img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="1000" align="centre" marginLeft="100px" alt="" />
 
-import SoftwareDeveloper from 'India';
-class Bio extends SoftwareDeveloper {
-  name     = 'Yash Kumar Pal';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Ghaziabad, India';
-  availability = "Available to hire!!";
-}
-class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
-}
-
 ### Hello! I'm Yash, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.
 <!-- https://github.com/yash0922?tab=followers -->
 <!-- <img src="https://komarev.com/ghpvc/?username=yash0922/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
