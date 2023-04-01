@@ -7,6 +7,7 @@
 ### Hello! I'm Yash, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.
 <!-- https://github.com/yash0922?tab=followers -->
 <!-- <img src="https://komarev.com/ghpvc/?username=yash0922/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=yash0922&color=green" alt="views" /> 
 <br/>
 <p align="centre"> 
 <a href="https://github.com/yash0922/?tab=followers"><img src="https://img.shields.io/github/followers/yash0922?label=Followers&style=social" alt="GitHub Badge"></a>
